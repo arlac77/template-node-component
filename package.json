@@ -1,5 +1,10 @@
 {
     "engines": {
         "node" : ">={{node_version}}"
-    }
+    },
+    "template": {
+        "inheritFrom": [
+          "arlac77/template-root"
+        ]
+      }
 }
