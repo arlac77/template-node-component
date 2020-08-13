@@ -10,6 +10,7 @@
     "usedBy": [
       "arlac77/SymatemOntology",
       "arlac77/SymatemQuery",
+      "arlac77/aggregate-async-iterator",
       "arlac77/dns-playground"
     ]
   }
