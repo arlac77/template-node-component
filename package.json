@@ -4,7 +4,9 @@
   },
   "template": {
     "properties": {
-      "javascript.source": "./src/**/.mjs"
+      "javascript": {
+        "source": "./src/**/.mjs"
+      }
     },
     "inheritFrom": [
       "arlac77/template-root",
