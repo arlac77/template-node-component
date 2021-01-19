@@ -3,13 +3,9 @@
     "node": ">={{node_version}}"
   },
   "template": {
-    "properties": {
-      "javascript": {
-        "source": "./src/**/*.mjs"
-      }
-    },
     "inheritFrom": [
       "arlac77/template-root",
+      "arlac77/template-javascript",
       "arlac77/template-ava-coverage",
       "arlac77/template-semantic-release"
     ],
