@@ -8,7 +8,6 @@
     },
     "inheritFrom": [
       "arlac77/template-root",
-      "arlac77/template-ava",
       "arlac77/template-ava-coverage",
       "arlac77/template-semantic-release"
     ],
