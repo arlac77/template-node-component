@@ -3,6 +3,9 @@
     "node": ">={{node_version}}"
   },
   "template": {
+    "properties": {
+      "node_version": "16.14.2"
+    },
     "inheritFrom": [
       "arlac77/template-root",
       "arlac77/template-javascript",
