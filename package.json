@@ -10,9 +10,6 @@
       "arlac77/template-semantic-release"
     ],
     "usedBy": [
-      "arlac77/SymatemOntology",
-      "arlac77/SymatemQuery",
-      "arlac77/dns-playground",
       "arlac77/matching-iterator",
       "arlac77/pacc",
       "arlac77/url-cmd",
