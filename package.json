@@ -15,6 +15,7 @@
       "arlac77/loglevel-mixin",
       "arlac77/matching-iterator",
       "arlac77/pacc",
+      "arlac77/reader-line-iterator",
       "arlac77/remove-sensible-values",
       "arlac77/url-cmd",
       "arlac77/uti",
