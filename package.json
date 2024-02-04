@@ -12,6 +12,7 @@
     "usedBy": [
       "arlac77/hinted-tree-merger",
       "arlac77/kv-reader",
+      "arlac77/length-prefix-framed-stream",
       "arlac77/loglevel-mixin",
       "arlac77/matching-iterator",
       "arlac77/pacc",
