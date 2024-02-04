@@ -15,7 +15,8 @@
       "arlac77/pacc",
       "arlac77/remove-sensible-values",
       "arlac77/url-cmd",
-      "arlac77/uti"
+      "arlac77/uti",
+      "template-tools/template-sync"
     ]
   }
 }
