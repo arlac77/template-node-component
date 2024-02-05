@@ -17,6 +17,7 @@
       "arlac77/matching-iterator",
       "arlac77/pacc",
       "arlac77/remove-sensible-values",
+      "arlac77/statetransition-mixin",
       "arlac77/url-cmd",
       "arlac77/uti",
       "template-tools/template-sync"
