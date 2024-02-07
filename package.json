@@ -7,6 +7,7 @@
       "arlac77/template-root",
       "arlac77/template-javascript",
       "arlac77/template-ava-coverage",
+      "arlac77/template-documentation",
       "arlac77/template-semantic-release"
     ],
     "usedBy": [
