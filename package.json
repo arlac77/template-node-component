@@ -4,7 +4,6 @@
   },
   "template": {
     "inheritFrom": [
-      "arlac77/template-root",
       "arlac77/template-npm",
       "arlac77/template-javascript",
       "arlac77/template-ava-coverage",
