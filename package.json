@@ -7,15 +7,7 @@
       "arlac77/template-javascript-component"
     ],
     "usedBy": [
-      "arlac77/hinted-tree-merger",
-      "arlac77/kv-reader",
-      "arlac77/length-prefix-framed-stream",
-      "arlac77/loglevel-mixin",
-      "arlac77/pacc",
-      "arlac77/remove-sensible-values",
-      "arlac77/statetransition-mixin",
-      "arlac77/url-cmd",
-      "template-tools/template-sync"
+      "arlac77/url-cmd"
     ]
   }
 }
