@@ -5,9 +5,6 @@
   "template": {
     "inheritFrom": [
       "arlac77/template-javascript-component"
-    ],
-    "usedBy": [
-      "arlac77/url-cmd"
     ]
   }
 }
