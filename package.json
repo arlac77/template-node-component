@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": ">={{node_version}}"
+    "node": ">={{node.version}}"
   },
   "template": {
     "inheritFrom": [
